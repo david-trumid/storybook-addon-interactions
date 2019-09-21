@@ -1,0 +1,30 @@
+{
+  "name": "storybook-addon-interactions",
+  "version": "1.0.0",
+  "description": "Storybook add-on for interaction support",
+  "main": "src/index.jsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-trumid/storybook-addon-interactions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-trumid/storybook-addon-interactions/issues"
+  },
+  "homepage": "https://github.com/david-trumid/storybook-addon-interactions#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.4.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "react": "^16.9.0",
+    "storybook": "^5.1.11"
+  }
+}
